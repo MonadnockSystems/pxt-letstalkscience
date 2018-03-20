@@ -1,6 +1,6 @@
 {
     "name": "lts",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Board support library for Let's Talk Science sensor board",
     "license": "APLv2",
     "dependencies": {
