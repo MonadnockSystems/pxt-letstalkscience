@@ -4,8 +4,7 @@
     "description": "Board support library for Let's Talk Science sensor board",
     "license": "APLv2",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
